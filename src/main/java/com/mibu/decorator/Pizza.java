@@ -1,6 +1,6 @@
 package com.mibu.decorator;
 
-abstract class Pizza {
+public abstract class Pizza {
 
   String description = "Unkknown Pizza";
 

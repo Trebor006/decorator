@@ -1,6 +1,6 @@
 package com.mibu.decorator;
 
-class FreshTomato extends CustomPizzaDecorator {
+public class FreshTomato extends CustomPizzaDecorator {
 
   private Pizza pizza;
 

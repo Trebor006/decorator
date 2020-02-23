@@ -1,6 +1,6 @@
 package com.mibu.decorator;
 
-class ChickenFiesta extends Pizza {
+public class ChickenFiesta extends Pizza {
 
   public ChickenFiesta() {
     description = "ChickenFiesta";
